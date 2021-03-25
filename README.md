@@ -177,7 +177,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <sub><b>Rafael Santos</b></sub></a> <a href="https://rscode.com.br/"</a>
  <br />
 
-[![Twitter Badge](https://img.shields.io/badge/-@raffrenan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/raffrenan) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/raffrenan/)
+[![Twitter Badge](https://img.shields.io/badge/-@raffrenan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/raffrenan) [![Linkedin Badge](https://img.shields.io/badge/-Raffrenan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/raffrenan/)
 [![Gmail Badge](https://img.shields.io/badge/-raffrenan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raffrenan@gmail.com)](mailto:raffrenan@gmail.com)
 
 ---
