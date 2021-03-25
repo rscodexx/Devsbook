@@ -39,6 +39,9 @@
  <a href="#user-content--licença">Licença</a>
 </p>
 
+## 🎬 <a href="https://rscode.com.br/devsbook/public">Demonstração</a>
+
+Demonstração do projeto, basta acessar, se registrar e testar todas as funcionalidades.
 
 ## 💻 Sobre o projeto
 
